@@ -11,7 +11,7 @@ Titan Racing Baja SAE is a mechanical engineering club for students to design, b
 ## Vehicle Dynamics & Data Acquisition
 For the **Vehicle Dynamics / Data Acquisition (VD/DAQ)** subteam, the focus is heavily on the electrical, sensor data, and data analysis side of work on the car.
 
-We currently implemented **8 sensors** on the Baja car, all connected to an Teensy 4.1-based DAQ system to record performance data during testing and competition runs. Our goal for this year is to add more critical sensors which will bring the total to **12 sensors**
+We currently implemented **8 sensors** on the Baja car, all connected to an Teensy 4.1-based DAQ system to record performance data during testing and competition runs. Our goal for this year is to add more critical sensors which will bring the total to **12 sensors**.
 
 The current system logs:
 - Vehicle velocity
