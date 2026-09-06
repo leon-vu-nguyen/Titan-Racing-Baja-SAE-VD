@@ -1,4 +1,4 @@
-<img width="1024" height="572" alt="BAJA Banner" src="https://github.com/user-attachments/assets/b06bf189-8abd-45d3-ba3e-8932616faef0" />
+<img width="1024" height="572" alt="BAJA Banner" src="https://github.com/user-attachments/assets/853dd303-1e0c-4214-aa57-e046ce95b900" />
 
 ## Titan-Racing-Baja-SAE (2026-2027)
 
