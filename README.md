@@ -1,4 +1,5 @@
 <img width="1024" height="572" alt="BAJA1" src="https://github.com/user-attachments/assets/d013ba23-6f7a-4f7c-acd3-6a94d83fe903" />
+
 ## Titan-Racing-Baja-SAE (2026-2027)
 
 Titan Racing Baja SAE is an engineering club for students to design, build and race a custom off-road vehicle for the annual collegiate competition. Designing and building a car requires us to apply engineering problems to the real world. We gain invaluable skills in design, manufacturing, and project management that prepare us for professional careers. At **CSUF**, our Baja SAE team consists of 14 members, and our goal is to compete in the BAJA SAE competition that is in **Tucson, Arizona** in **May 2027**. We are divided into four subteams:
