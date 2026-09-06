@@ -25,4 +25,5 @@ The current system logs:
 - Vehicle position (GPS)  
 
 All sensor data is routed through a **Teensy 4.1**, allowing each run to be logged directly to an microSD card. The recorded data is then processed and analyzed in **MATLAB** to evaluate vehicle performance, CVT behavior, braking balance, and driver inputs.
+
 Live transmission of recorded data is available to the pit crew through the usage of XBee RF Module and supporting componenents.
