@@ -34,7 +34,7 @@ type: short description
 
 ### File Header
 
-**See also: file_header_template.h**
+**See also: .github/file_header_template.h**
 
 Include the following snippet as a header in all project files.
 
